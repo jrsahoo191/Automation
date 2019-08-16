@@ -1,0 +1,11 @@
+Prerequisite:
+Installation process of Java SE Development Kit & respective System configuration need to be done before installing the Eclipse IDE on your local machine.
+Download & Install the Eclipse IDE.
+Create your first project on IDE, Resolve the initial errors if at all occured on console to execute your first program.
+Download the Java language Binding from https://www.seleniumhq.org/download/ (Official website of Selenium).
+Add the extracted Selenium Java Language Jar files to the project [ Project> right click & go to Build path> click on Configure Build path & Add the External Jars].
+Correct the JRE System liabrary version in Liabrary section and then goto Java Compiler to ensure that the opted JRE version is in sync with the corrected JRE system Library version.
+Download the browser drivers from the Selenium Official website and keep them at one place which will be useful while lunching the Web browsers.
+Go to the Help (of Eclipse IDE)> Install New Software>Work with Textbox> TestNG Eclipse - http://beust.com/eclipse/
+Select the TestNG checkbox > click Next to proceed with the Installation process.
+Now you're all set execute your first code in IDE.
